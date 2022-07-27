@@ -1,0 +1,294 @@
+{
+"diemdanh_count": [{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191385",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191386",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191388",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191389",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191390",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191391",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191392",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191393",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191394",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191395",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 1
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191396",
+			"isAttend": "0",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191397",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191398",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191399",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191400",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191401",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191402",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191403",
+			"isAttend": "0",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191404",
+			"isAttend": "0",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191406",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191407",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191408",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191409",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191410",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20191411",
+			"isAttend": "1",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		},
+		{
+			"classID": "111111",
+			"week": "44",
+			"studentID": "20194268",
+			"isAttend": "0",
+			"updatedTime": "2022-07-05 14:16:36",
+			"teacherID": "1",
+			"isManual": 0
+		}
+	],
+	"diemdanh_image": [{
+			"id": 1,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 13:06:16",
+			"path": "/public/images/img/result/111111-20220705130612-0.JPG"
+		},
+		{
+			"id": 2,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 13:08:50",
+			"path": "/public/images/img/result/111111-20220705130849-0.JPG"
+		},
+		{
+			"id": 3,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 13:22:58",
+			"path": "/public/images/img/result/111111-20220705132252-0.JPG"
+		},
+		{
+			"id": 4,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 14:12:03",
+			"path": "/public/images/img/result/111111-20220705141157-0.jpg"
+		},
+		{
+			"id": 5,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 14:13:36",
+			"path": "/public/images/img/result/111111-20220705141333-0.JPG"
+		},
+		{
+			"id": 6,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 14:16:36",
+			"path": "/public/images/img/result/111111-20220705141623-0.JPG"
+		},
+		{
+			"id": 7,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 14:16:36",
+			"path": "/public/images/img/result/111111-20220705141623-1.JPG"
+		},
+		{
+			"id": 8,
+			"classID": "111111",
+			"week": "44",
+			"updatedTime": "2022-07-05 14:16:36",
+			"path": "/public/images/img/result/111111-20220705141623-2.JPG"
+		}
+	]
+}
